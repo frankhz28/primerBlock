@@ -1,0 +1,9 @@
+# Cursos
+
+1. MATEMATICA COMPUTACIONAL
+2. PROGRAMACION PARALELA	
+3. Redes 2	
+4. Etica
+5. Realidad
+
+	
